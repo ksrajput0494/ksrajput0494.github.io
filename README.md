@@ -2,7 +2,7 @@
 
 ## Technical Skills :
 -	Operating System:&nbsp;&nbsp;Windows Family, LINUX
--	Programming Languages:&nbsp;Java, Python, pyspark, sparksql
+-	Programming Languages:&nbsp;&nbsp;&nbsp;Java, Python, pyspark, sparksql
 -	RDBMS:&nbsp;&nbsp;&nbsp;Oracle, MSSQL
 -	Platforms:&nbsp;&nbsp;&nbsp;Kafka
 -	Git Hub:&nbsp;&nbsp;&nbsp;Bitbucket, Github
