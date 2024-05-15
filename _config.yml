@@ -1,3 +1,4 @@
 title: Kuldeep Singh
-show_downloads: true
+#show_downloads: true
+logo: /assets/img/headshot_circle.png
 theme: jekyll-theme-minimal
