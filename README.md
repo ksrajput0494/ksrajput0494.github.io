@@ -1,7 +1,7 @@
 # Software Engineer|Data Engineer
 
 ### Education
-•	Bachelors, Computer Science and Engineering from MAIET College affiliated to RTU, Jaipur, India
+-	Bachelors, Computer Science and Engineering from MAIET College affiliated to RTU, Jaipur, India
 
 ### Work Experience
 - LumenData Pvt Ltd Bangalore: - Jun 2017 – Oct 2021
