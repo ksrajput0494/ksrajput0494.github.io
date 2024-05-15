@@ -1,6 +1,6 @@
 title: Kuldeep Singh
 logo: /assets/img/headshot_circle.png
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
 .logo {
   display: inline-block;
