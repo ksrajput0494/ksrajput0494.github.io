@@ -11,3 +11,10 @@ Work summary
 - Informatica – June 2022 – Present
 
 ### Projects
+
+
+
+
+[Publication](https://github.com/ksrajput0494/DataBricks_Formula1/tree/main/Formula1/Formula1)
+
+![EEG Band Discovery](/assets/img)
