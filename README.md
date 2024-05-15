@@ -2,15 +2,15 @@
 
 ## Technical Skills :
 -	Operating System:		Windows Family, LINUX
--	Programming Languages:	Java, Python, pyspark, sparksql
+-	Programming Languages:	 Java, Python, pyspark, sparksql
 -	RDBMS:			Oracle, MSSQL
 -	Platforms:			Kafka
 -	Git Hub:			Bitbucket, Github
--	Amazon Web Service:	S3, EC2, Lambda
--	Azure:			Azure Key Vault, Azure Data Factory, Azure DataBricks
--	Enterprise Applications:	Informatica MDM 10.X, Informatica MDM Saas, Reference 360, CDI, CDQ
+-	Amazon Web Service:	 S3, EC2, Lambda
+-	Azure:			 Azure Key Vault, Azure Data Factory, Azure DataBricks
+-	Enterprise Applications:	 Informatica MDM 10.X, Informatica MDM Saas, Reference 360, CDI, CDQ
 -	Others:			Data Structures and Algorithms, System Design
--	Soft Skills:			Strong Problem Solving, Fast Learner, Excellent communication, Team work and                 
+-	Soft Skills:			 Strong Problem Solving, Fast Learner, Excellent communication, Team work and                 
   				collaboration
 
 ## Education
