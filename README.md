@@ -5,8 +5,8 @@
 -	Programming Languages &nbsp;&nbsp;&nbsp;:Java, Python, pyspark, sparksql
 -	RDBMS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Oracle, MSSQL
 -	Platforms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Kafka
--	Git Hub:&nbsp;&nbsp;&nbsp;Bitbucket, Github
--	Amazon Web Service:&nbsp;S3, EC2, Lambda
+-	Git Hub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Bitbucket, Github
+-	Amazon Web Service &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:S3, EC2, Lambda
 -	Azure:&nbsp;&nbsp;&nbsp;Azure Key Vault, Azure Data Factory, Azure DataBricks
 -	Enterprise Applications:&nbsp;Informatica MDM 10.X, Informatica MDM Saas, Reference 360, CDI, CDQ
 -	Others:&nbsp;&nbsp;&nbsp;Data Structures and Algorithms, System Design
