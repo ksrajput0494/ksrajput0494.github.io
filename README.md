@@ -5,9 +5,9 @@
 -	Programming Languages &nbsp;&nbsp;&nbsp;:Java, Python, pyspark, sparksql
 -	RDBMS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Oracle, MSSQL
 -	Platforms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Kafka
--	Git Hub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Bitbucket, Github
+-	Git Hub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp:Bitbucket, Github
 -	Amazon Web Service &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:S3, EC2, Lambda
--	Azure:&nbsp;&nbsp;&nbsp;Azure Key Vault, Azure Data Factory, Azure DataBricks
+-	Azure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Azure Key Vault, Azure Data Factory, Azure DataBricks
 -	Enterprise Applications:&nbsp;Informatica MDM 10.X, Informatica MDM Saas, Reference 360, CDI, CDQ
 -	Others:&nbsp;&nbsp;&nbsp;Data Structures and Algorithms, System Design
 -	Soft Skills:&nbsp;&nbsp;&nbsp;Strong Problem Solving, Fast Learner, Excellent communication, Team work and                 
