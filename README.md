@@ -230,9 +230,4 @@ Work summary
 -	Configured Manual merge tasks to show tasks in UI for data stewards to approve.
 -	Configured Survivorship rules for the attributes and source systems
 
-
-
-
-[Formula1](https://github.com/ksrajput0494/DataBricks_Formula1/tree/main/Formula1/Formula1)
-
-![EEG Band Discovery](/assets/img)
+![EEG Band Discovery](/assets/img/headshot_circle.png)
