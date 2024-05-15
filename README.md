@@ -1,7 +1,7 @@
 # Software Engineer|Data Engineer
 
 ## Technical Skills :
--	Operating System:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows Family, LINUX
+-	Operating System:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows Family, LINUX
 -	Programming Languages:&nbsp;&nbsp;&nbsp;Java, Python, pyspark, sparksql
 -	RDBMS:&nbsp;&nbsp;&nbsp;Oracle, MSSQL
 -	Platforms:&nbsp;&nbsp;&nbsp;Kafka
