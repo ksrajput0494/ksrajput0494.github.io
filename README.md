@@ -1,6 +1,6 @@
 # Software Engineer|Data Engineer
 
-###Education
+### Education
 •	Bachelors, Computer Science and Engineering from MAIET College affiliated to RTU, Jaipur, India
 
 ### Work Experience
@@ -10,4 +10,4 @@ Work summary
 Work summary
 - Informatica – June 2022 – Present
 
-###Projects
+### Projects
