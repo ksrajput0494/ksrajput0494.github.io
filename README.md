@@ -2,23 +2,23 @@
 
 ## Work Experience
 - LumenData Pvt Ltd, Bengaluru (Software Consultant)  Jun 2017 – Oct 2021
-  - Worked with solution architect in development and solution designing
-  - Created LLD and HLD for client implementations
-  - Collected Business requirments developed code,
-  - Developed unit test cases, documented test case and debug code
+  - Collaborated with solution architects in development and solution designing.
+  - Produced Low-Level Design (LLD) and High-Level Design (HLD) documents for client implementations.
+  - Gathered business requirements, developed code, and implemented solutions.
+  - Created unit test cases, documented test cases, and debugged code.
        
 - Edwards Life Science, Kuala Lumpur Malaysia (Senior Developer) Oct 2021 – June 2022
-  - Work with team on Customer, Supplier and product implementations
-  - POC and solutions designing and presentations.
-  - Provide mentorship and support junior resources
-  - Connect with stakeholder and provide updates on teams progress.
+  - Collaborate with the team on customer, supplier, and product implementations.
+  - Lead proof-of-concept (POC) efforts, design solutions, and deliver presentations.
+  - Mentor and support junior team members.
+  - Engage with stakeholders and provide updates on team progress.
   
 - Informatica, Bengaluru (Senior Consultant)  June 2022 – Present
-  - Collaborate cross-functionally to deliver high-quality software, adhering to agile methodologies.
+  - Collaborate cross-functionally to deliver high-quality code, adhering to agile methodologies.
   - Drive innovation and efficiency through proactive participation in architectural discussions and performance optimization.
-  - Ensure product quality and reliability by conducting code reviews, implementing automated testing, and resolving production issues promptly.
+  - Ensure product quality and reliability by conducting code reviews, testing, and resolving production issues.
   - Mentor junior team members, contribute to documentation, and maintain coding standards for a cohesive and scalable codebase.
-  - Facilitate seamless communication with stakeholders, translating business requirements into technical solutions and delivering timely updates.
+  - Communicate effectively with stakeholders, translating business needs into technical solutions and providing timely updates.
 
 ## Mock Projects:
 
