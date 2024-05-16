@@ -2,8 +2,8 @@
 
 ## Work Experience
 - LumenData Pvt Ltd, Bengaluru (Software Consultant)  Jun 2017 – Oct 2021
-  -- Worked with solution architect in development and solution designing
-  -- Created LLD and HLD for client implementations
+  - Worked with solution architect in development and solution designing
+  - Created LLD and HLD for client implementations
   -- Collected Business requirments developed code,
   -- developed unit test cases, documented test case and debug code
        
