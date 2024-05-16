@@ -215,4 +215,4 @@ Work summary
 -	Configured Manual merge tasks to show tasks in UI for data stewards to approve.
 -	Configured Survivorship rules for the attributes and source systems
 
-![EEG Band Discovery](/assets/img/headshot_circle.png)
+
