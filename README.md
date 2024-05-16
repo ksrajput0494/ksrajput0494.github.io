@@ -4,21 +4,21 @@
 - LumenData Pvt Ltd, Bengaluru (Software Consultant)  Jun 2017 – Oct 2021
   - Worked with solution architect in development and solution designing
   - Created LLD and HLD for client implementations
-  -- Collected Business requirments developed code,
-  -- developed unit test cases, documented test case and debug code
+  - Collected Business requirments developed code,
+  - Developed unit test cases, documented test case and debug code
        
 - Edwards Life Science, Kuala Lumpur Malaysia (Senior Developer) Oct 2021 – June 2022
-  -- Work with team on Customer, Supplier and product implementations
-  -- POC and solutions designing and presentations.
-  -- Provide mentorship and support junior resources
-  -- Connect with stakeholder and provide updates on teams progress.
+  - Work with team on Customer, Supplier and product implementations
+  - POC and solutions designing and presentations.
+  - Provide mentorship and support junior resources
+  - Connect with stakeholder and provide updates on teams progress.
   
 - Informatica, Bengaluru (Senior Consultant)  June 2022 – Present
-  -- Mentor Junior resources
-  -- Review code written by other team members.
-  -- Write flexible and scalable code into dev requirment.
-  -- Provide support to QA team with test related issues.
-  -- Provide updates to internal and external stake holders. 
+  - Mentor Junior resources
+  - Review code written by other team members.
+  - Write flexible and scalable code into dev requirment.
+  - Provide support to QA team with test related issues.
+  - Provide updates to internal and external stake holders. 
 
 ## Mock Projects:
 
