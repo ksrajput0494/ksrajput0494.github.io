@@ -14,11 +14,11 @@
   - Connect with stakeholder and provide updates on teams progress.
   
 - Informatica, Bengaluru (Senior Consultant)  June 2022 – Present
-  - Mentor Junior resources
-  - Review code written by other team members.
-  - Write flexible and scalable code into dev requirment.
-  - Provide support to QA team with test related issues.
-  - Provide updates to internal and external stake holders. 
+  - Collaborate cross-functionally to deliver high-quality software, adhering to agile methodologies.
+  - Drive innovation and efficiency through proactive participation in architectural discussions and performance optimization.
+  - Ensure product quality and reliability by conducting code reviews, implementing automated testing, and resolving production issues promptly.
+  - Mentor junior team members, contribute to documentation, and maintain coding standards for a cohesive and scalable codebase.
+  - Facilitate seamless communication with stakeholders, translating business requirements into technical solutions and delivering timely updates.
 
 ## Mock Projects:
 
