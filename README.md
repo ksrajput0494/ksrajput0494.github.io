@@ -228,4 +228,29 @@
 -	Configured Manual merge tasks to show tasks in UI for data stewards to approve.
 -	Configured Survivorship rules for the attributes and source systems
 
+### CIMB
+####  Domain: - Customer 360
+####  Project Description: - CIMB needs to consolidate customer and organization records within its existing system. Additionally, they require a structured business approval process for any modifications to organization and person records to ensure compliance and accuracy. Furthermore, CIMB aims to represent its organization data in hierarchies, enabling more structured and data-driven business decisions. This hierarchical representation will provide a clearer view of relationships within the organization, facilitating a more linear and informed decision-making process.
+####  Responsibilities:
+-	Created Implementation documents.
+-	Created ETL Mapping documents.
+-	Create reference entity/ Lov documents for all entities
+-	Configured Data models along with reference entities.
+-	Supported ActiveVos development for one step approval and email notification.
+-	Took requirements and developed UserExit use cases and debugging.
+-	Implemented Hierarchy, Networks and relationships.
+-	Configured match and merge rules.
+-	Configured New entities in UI for data stewardship.
+-	Configured Manual merge tasks to show tasks in UI for data stewards to approve.
+-	Configured Survivorship rules for the attributes and source systems
+
+### Saudia
+####  Domain: - Customer 360
+####  Project Description: - POV for showing business values buy combining data from multiple source systems and deduplicating data across systems. 
+####  Responsibilities:
+-	Worked with customers for initial workshops to understand requirements.
+-	Worked with customers and partners to gain pain points and issues with exisiting system,
+-	Created  initial requirement documents and ppts.
+
+
 
